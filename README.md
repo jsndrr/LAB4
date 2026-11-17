@@ -22,7 +22,7 @@ README.md                       # Documentación de compilación y ejecución
 
 Clonar el repositorio:
 git clone https://github.com/jsndrr/LAB4
-cd TU_REPOSITORIO
+
 
 Compilar todos los archivos fuente Java:
 javac *.java
